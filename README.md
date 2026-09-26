@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hoang My 👋
 
-<!--
-**HoangMylb/HoangMylb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-leaning full-stack developer with 2.5+ years of hands-on experience working with production web systems.
 
-Here are some ideas to get you started:
+I build and improve web products with React, Next.js, TypeScript and .NET — from responsive interfaces and API integration to debugging existing systems and shipping focused fixes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### OpsDesk
+Internal support and operations platform covering ticket workflows, SLA tracking, authorization, audit history, authentication, concurrency handling and automated testing.
+
+### MDOP
+Interactive vehicle discovery experience with product comparison, persisted state, accessibility, responsive UI and performance-focused implementation.
+
+### THÈM GÌ CŨNG CÓ
+Mobile-first food ordering experience with menu discovery, search, filtering, cart interactions and responsive product flows.
+
+## How I work
+
+Understand the existing system → reproduce the problem → trace the data and interaction flow → implement a focused solution → validate → ship.
+
+Open to remote full-time, contract, part-time and project-based development opportunities.
